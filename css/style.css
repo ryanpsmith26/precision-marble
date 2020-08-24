@@ -70,10 +70,13 @@ a {
 	font-weight: 400;
 	font-size: 1rem;
 	text-transform: uppercase;
-	letter-spacing: 5.45px;
+	letter-spacing: 5.1px;
 	margin: 0;
 	padding: 0;
 	line-height: 0;
+	/* remove */
+	/* color: #839981; */
+	/* color: #ededed; */
 }
 
 .menu-icon {
@@ -130,7 +133,11 @@ a {
 
 header {
 	background: #ededed;
+	/* remove */
+	/* background: #839981; */
 	height: 100px;
+	/* remove */
+	/* height: 500px; */
 }
 
 .header-content {
@@ -142,6 +149,8 @@ header {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
+	/* remove */
+	/* margin-left: 10em; */
 }
 
 /* NAV PAGE */
