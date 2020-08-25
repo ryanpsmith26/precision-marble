@@ -279,8 +279,8 @@ footer > * {
 }
 
 .col {
-	padding: 0 2em;
-	max-width: 350px;
+	/* padding: 0 2em; */
+	max-width: 300px;
 	margin: 0 auto;
 }
 
