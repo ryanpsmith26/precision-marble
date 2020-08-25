@@ -81,12 +81,13 @@ a {
 
 .menu-icon {
 	font-size: 2.25rem;
-	margin: 1em 0 2 2;
-	margin-right: 0;
+	margin: 1em 0;
+	padding: 0;
 	color: inherit;
 	border: 0;
 	background: 0;
 	cursor: pointer;
+	border: 2px solid blue;
 }
 
 .menu-icon:hover,
