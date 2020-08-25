@@ -81,8 +81,7 @@ a {
 
 .menu-icon {
 	font-size: 2rem;
-	margin-right: 0.5em;
-	margin: 1em 0;
+	margin: 1em 0.5 1em;
 	color: inherit;
 	border: 0;
 	background: 0;
