@@ -13,7 +13,7 @@ closeButton.addEventListener('click', () => {
 var prevScrollpos = window.pageYOffset;
 window.onscroll = function() {
 	var currentScrollPos = window.pageYOffset;
-	if (prevScrollpos >= currentScrollPos) {
+	if (currentScrollPos < 100 || prevScrollpos >= currentScrollPos) {
 		document.getElementById('header').style.top = '0';
 	} else {
 		document.getElementById('header').style.top = '-100px';
