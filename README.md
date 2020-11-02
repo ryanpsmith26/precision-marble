@@ -4,4 +4,7 @@
 
 https://precision-marble.com/
 
-Precision Marble & Granite LLC Landing Page.
+- Landing page for client, Precision Marble & Granite LLC, to display company information and gallery views of their work.
+- Implements responsive design, leveraging skills acquired from completing Scrimba's Responsive Web Design Bootcamp.
+- Designed, built and deployed in April 2020 prior to attending Fullstack Academy of Code.
+- Tech: HTML5, CSS3 (Flexbox, Grid), JavaScript
